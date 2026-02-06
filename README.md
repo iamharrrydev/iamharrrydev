@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am looking for new jobs<br>Upgrading myself to Devops
+I am looking for new job<br>Upgrading myself to Devops
 
 
 # 💻 Tech Stack:
